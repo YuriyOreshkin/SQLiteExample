@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\SQLiteExample.UI.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\App.config" />
+  <event action="Analyze" type="Success" name="CategoriesFormEdit.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\Category\CategoriesFormEdit.resx" />
+  <event action="Analyze" type="Success" name="CategoriesFormList.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\Category\CategoriesFormList.resx" />
+  <event action="Analyze" type="Success" name="MainForm.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\MainForm.resx" />
+  <event action="Analyze" type="Success" name="ProductsFormEdit.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\Product\ProductsFormEdit.resx" />
+  <event action="Analyze" type="Success" name="ProductsFormList.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\Product\ProductsFormList.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="SQLiteExample.UI" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample\SQLiteExample.UI.csproj" />
+  <event action="Analyze" type="Success" name="SQLiteExample" path="C:\Users\007OreshkinYV\source\repos\SQLiteExample\SQLiteExample.sln" />
+</log>
